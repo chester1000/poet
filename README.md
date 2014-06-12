@@ -1,6 +1,8 @@
 Poet [![Build Status](https://travis-ci.org/jsantell/poet.png)](https://travis-ci.org/jsantell/poet)
 ======
 
+**[Looking for maintenance help!](https://github.com/jsantell/poet/issues/91)**
+
 Poet has your code-blogging back. Renders markdown, jade, or any templated files as posts, tag it up with metadata that's passed into any view engine you want, instant pagination, tag and category views, and home in time for dinner.
 
 View the source for [jsantell.com](https://github.com/jsantell/jsantell.com) to see an example of Poet in use. Much `<3` to [Brittany Fedor](http://bfedor.com/) for the sweet art!
@@ -9,12 +11,9 @@ View the source for [jsantell.com](https://github.com/jsantell/jsantell.com) to 
 
 ## New Release
 
-**v1.0.0-rc4**
-A giant refactor has occurred -- all tests are passing, and be sure to test when upgrading to this release candidate. Some features may be missing or not working as intended. If you notice any issues, please file a bug.
+**v1.0.0**
 
-Some features have been removed and changed, so please note the changes in the change log -- your site may need to be slightly changed to accomodate the 1.x.x releases from previous versions.
-
-[**Changes in v1.0.0-rc4**](https://github.com/jsantell/poet/blob/master/CHANGELOG.md)
+[**Changes in v1.0.0**](https://github.com/jsantell/poet/blob/master/CHANGELOG.md)
 
 ## Documentation
 
@@ -33,6 +32,7 @@ These sites are using Poet for their blogging, check them out! Ping me, or send 
 * [FightMagicRun](http://fightmagicrun.com/blog)
 * [Morgondag](http://morgondag.nu)
 * [Vemdel - Raspberry Hunt](http://vemdel-game.com)
+* [jobZETA](http://jobzeta.com)
 
 ## Installing
 
